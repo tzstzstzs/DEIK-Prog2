@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Elso ora">
+    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="folytatas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/People/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/People/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/People/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/People/PersonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PersonTest">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="DEIK-Prog2" />
@@ -46,8 +47,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="People.PersonTest" />
+      <module name="DEIK-Prog2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="People.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -71,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664700321274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="folytatas">
+      <created>1664979669239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664979669239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Elso ora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Elso ora" />
+    <MESSAGE value="folytatas" />
+    <option name="LAST_COMMIT_MESSAGE" value="folytatas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
