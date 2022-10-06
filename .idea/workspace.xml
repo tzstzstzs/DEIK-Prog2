@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="folytatas">
+    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Elso ora">
+      <change afterPath="$PROJECT_DIR$/src/People/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022__10__05__16_17__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022__10__05__16_17__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/People/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/People/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/People/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/People/PersonTest.java" afterDir="false" />
@@ -36,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.PersonTest">
@@ -78,6 +80,8 @@
       <workItem from="1664695206338" duration="2095000" />
       <workItem from="1664742163770" duration="943000" />
       <workItem from="1664813375457" duration="519000" />
+      <workItem from="1664956893377" duration="1665000" />
+      <workItem from="1664967741416" duration="838000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -86,14 +90,7 @@
       <option name="project" value="LOCAL" />
       <updated>1664700321274</updated>
     </task>
-    <task id="LOCAL-00002" summary="folytatas">
-      <created>1664979669239</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1664979669239</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,8 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Elso ora" />
-    <MESSAGE value="folytatas" />
-    <option name="LAST_COMMIT_MESSAGE" value="folytatas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Elso ora" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
