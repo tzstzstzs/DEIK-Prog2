@@ -3,6 +3,7 @@ package Vehicle;
 import java.util.Arrays;
 import java.util.Objects;
 import java.util.Scanner;
+import java.util.StringJoiner;
 
 public class Auto {
     private String rendszam;
@@ -27,12 +28,21 @@ public class Auto {
         return automata;
     }
 
-    @Override
+    /*@Override
     public String toString() {
         return "Auto{" +
                 "rendszam='" + rendszam + '\'' +
                 ", teljesitmeny=" + teljesitmeny +
                 ", automata=" + automata +
                 '}';
+    }*/
+
+    @Override
+    public String toString() {
+        StringJoiner sj = new StringJoiner((", "));
+        sj.add(this.rendszam);
+        sj.add(String.valueOf(teljesitmeny));
+        sj.add(String.valueOf(automata));
+        return sj.toString();
     }
 }

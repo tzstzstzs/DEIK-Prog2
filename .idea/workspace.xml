@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="proba">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arit/Aritmetika1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arit/Aritmetika3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arit/Aritmetika4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle/Auto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022__10__05__16_17_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022__10__05__16_17__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022__10__06__7_46_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022__10__06__7_46__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Gyakorlati fájlok">
+      <change beforePath="$PROJECT_DIR$/src/Vehicle/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle/Auto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +124,7 @@
       <workItem from="1666169562400" duration="11000" />
       <workItem from="1666866083322" duration="14000" />
       <workItem from="1666942674879" duration="6000" />
-      <workItem from="1668417465196" duration="5824000" />
+      <workItem from="1668417465196" duration="6868000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -143,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664700321274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Gyakorlati fájlok">
+      <created>1668432974033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668432974033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Elso ora" />
-    <option name="LAST_COMMIT_MESSAGE" value="Elso ora" />
+    <MESSAGE value="Gyakorlati fájlok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gyakorlati fájlok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
