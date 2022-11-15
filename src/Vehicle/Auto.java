@@ -3,7 +3,6 @@ package Vehicle;
 import java.util.Arrays;
 import java.util.Objects;
 import java.util.Scanner;
-import java.util.StringJoiner;
 
 public class Auto implements Comparable<Auto> {
     private String rendszam;
@@ -75,6 +74,50 @@ public class Auto implements Comparable<Auto> {
         return Integer.compare(o.teljesitmeny, this.teljesitmeny);
     }
 
+    public boolean ValodiRendszam() {
+        if (rendszam.length() != 6) {
+            return false;
+        }
+
+        for (int i = 0; i < 3; i++) {
+            if (!Character.isUpperCase(rendszam.charAt(i))){
+                return false;
+            }
+        }
+
+        for (int i = 3; i < 6; i++) {
+            if (!Character.isDigit(rendszam.charAt(i))) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    public static Teherauto[] nagyTeherautok(Auto[] autok) {
+        int db = 0;
+        for (Auto auto : autok) {
+            if (auto instanceof Teherauto) {
+                Teherauto teherauto = (Teherauto) auto;
+                if (teherauto.getTeherbiras() >= 20) {
+                    db++;
+                }
+            }
+        }
+
+        Teherauto[] teherautok = new Teherauto[db];
+        db = 0;
+        for(Auto auto : autok) {
+            if(auto instanceof Teherauto){
+                Teherauto teherauto = (Teherauto) auto;
+                if (teherauto.getTeherbiras() >= 20){
+                    teherautok[db] = teherauto;
+                }
+            }
+        }
+        return teherautok;
+    }
+
     public static void main(String[] args) {
         Auto a1 = new Auto("AAA123", 80, true);
 
@@ -105,7 +148,7 @@ public class Auto implements Comparable<Auto> {
         System.out.println(autok);
         System.out.println(Arrays.toString(autok));
         Arrays.sort(autok);
-        for(Auto auto : autok){
+        for (Auto auto : autok) {
             System.out.println(auto);
         }
     }

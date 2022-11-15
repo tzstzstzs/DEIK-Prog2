@@ -1,3 +1,4 @@
+/*
 package Arit;
 
 import java.util.Scanner;
@@ -22,4 +23,4 @@ public class Aritmetika3 {
             });
         }
     }
-}
+}*/

@@ -1,5 +1,6 @@
 package Arit;
 
+/*
 import java.util.Scanner;
 
 public class Aritmetika4 {
@@ -24,3 +25,4 @@ public class Aritmetika4 {
 
     }
 }
+*/
