@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Gyakorlati fájlok">
+    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Elso ora">
+      <change afterPath="$PROJECT_DIR$/src/calculator1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator1/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator2/CalculatorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/People/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/People/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Vehicle/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle/Auto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,52 +39,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aritmetika4">
-    <configuration name="Aritmetika1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arit.Aritmetika1" />
-      <module name="DEIK-Prog2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aritmetika3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arit.Aritmetika3" />
-      <module name="DEIK-Prog2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aritmetika4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arit.Aritmetika4" />
-      <module name="DEIK-Prog2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PersonTest">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="DEIK-Prog2" />
@@ -100,9 +67,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aritmetika4" />
-        <item itemvalue="Application.Aritmetika3" />
-        <item itemvalue="Application.Aritmetika1" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -121,10 +85,6 @@
       <workItem from="1664813375457" duration="519000" />
       <workItem from="1664956893377" duration="1665000" />
       <workItem from="1664967741416" duration="838000" />
-      <workItem from="1666169562400" duration="11000" />
-      <workItem from="1666866083322" duration="14000" />
-      <workItem from="1666942674879" duration="6000" />
-      <workItem from="1668417465196" duration="6868000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -133,14 +93,7 @@
       <option name="project" value="LOCAL" />
       <updated>1664700321274</updated>
     </task>
-    <task id="LOCAL-00002" summary="Gyakorlati fájlok">
-      <created>1668432974033</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1668432974033</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,18 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Elso ora" />
-    <MESSAGE value="Gyakorlati fájlok" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gyakorlati fájlok" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.InputMismatchException" package="java.util" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="LAST_COMMIT_MESSAGE" value="Elso ora" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

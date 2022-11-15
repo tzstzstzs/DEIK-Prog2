@@ -5,10 +5,10 @@ import java.util.Objects;
 
 public class Person implements Comparable<Person>{
     static int counter;
-    static int age_limit;
+    static int AGE_LIMIT;
 
     static {
-        age_limit = 18;
+        AGE_LIMIT = 18;
     }
 
     protected String id;
@@ -33,7 +33,7 @@ public class Person implements Comparable<Person>{
     }
 
     public static boolean isAdult(Person person) {
-        return person.age >= age_limit;
+        return person.age >= AGE_LIMIT;
     }
 
     @Override
@@ -60,7 +60,7 @@ public class Person implements Comparable<Person>{
     }
 
     public boolean isAdult() {
-        return age >= age_limit;
+        return age >= AGE_LIMIT;
     }
 
     public String getId() {
