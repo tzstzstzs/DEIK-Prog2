@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Gyakorlati fájlok folyt..">
+      <change afterPath="$PROJECT_DIR$/src/eloleny/Allat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/toys/Lego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toys/Lego.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,7 @@
       <workItem from="1666942674879" duration="6000" />
       <workItem from="1668417465196" duration="6868000" />
       <workItem from="1668580426327" duration="5511000" />
-      <workItem from="1668600572493" duration="1477000" />
+      <workItem from="1668600572493" duration="3900000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668518486199</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Gyakorlati fájlok folyt..">
+      <created>1668602069140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668602069140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
