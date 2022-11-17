@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Gyakorlati fájlok folyt..">
-      <change afterPath="$PROJECT_DIR$/src/shapes/Test.java" afterDir="false" />
+    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Auto Teherauto">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,76 +34,25 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="scoreboard2" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.scoreboard2.ScoreboardTest">
-    <configuration name="Coupon (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coup.Coupon" />
+  <component name="RunManager" selected="Application.PersonTest">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="DEIK-Prog2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Coup.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coupon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Coup.Coupon" />
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="People.PersonTest" />
       <module name="DEIK-Prog2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Coup.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lego" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="toys.Lego" />
-      <module name="DEIK-Prog2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="toys.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScoreboardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scoreboard.ScoreboardTest" />
-      <module name="DEIK-Prog2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scoreboard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="scoreboard2.ScoreboardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scoreboard2.ScoreboardTest" />
-      <module name="DEIK-Prog2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scoreboard2.*" />
+          <option name="PATTERN" value="People.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +62,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.scoreboard2.ScoreboardTest" />
-        <item itemvalue="Application.ScoreboardTest" />
-        <item itemvalue="Application.Lego" />
-        <item itemvalue="Application.Coupon" />
-        <item itemvalue="Application.Coupon (1)" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +80,6 @@
       <workItem from="1664813375457" duration="519000" />
       <workItem from="1664956893377" duration="1665000" />
       <workItem from="1664967741416" duration="838000" />
-      <workItem from="1666169562400" duration="11000" />
-      <workItem from="1666866083322" duration="14000" />
-      <workItem from="1666942674879" duration="6000" />
-      <workItem from="1668417465196" duration="6868000" />
-      <workItem from="1668580426327" duration="5511000" />
-      <workItem from="1668600572493" duration="4517000" />
-      <workItem from="1668666075361" duration="11291000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -148,42 +88,7 @@
       <option name="project" value="LOCAL" />
       <updated>1664700321274</updated>
     </task>
-    <task id="LOCAL-00002" summary="Gyakorlati fájlok">
-      <created>1668432974033</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1668432974033</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Gyakorlati fájlok folyt..">
-      <created>1668518486199</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1668518486199</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Gyakorlati fájlok folyt..">
-      <created>1668602069140</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1668602069140</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Gyakorlati fájlok folyt..">
-      <created>1668604600567</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1668604600567</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Gyakorlati fájlok folyt..">
-      <created>1668691462014</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1668691462014</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,19 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Elso ora" />
-    <MESSAGE value="Gyakorlati fájlok" />
-    <MESSAGE value="Gyakorlati fájlok folyt.." />
-    <option name="LAST_COMMIT_MESSAGE" value="Gyakorlati fájlok folyt.." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.InputMismatchException" package="java.util" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <option name="LAST_COMMIT_MESSAGE" value="Elso ora" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
