@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Gyakorlati fájlok folyt..">
-      <change afterPath="$PROJECT_DIR$/src/scoreboard/Scoreboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scoreboard/ScoreboardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scoreboard2/Scoreboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scoreboard2/ScoreboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shapes/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +139,7 @@
       <workItem from="1668417465196" duration="6868000" />
       <workItem from="1668580426327" duration="5511000" />
       <workItem from="1668600572493" duration="4517000" />
-      <workItem from="1668666075361" duration="10157000" />
+      <workItem from="1668666075361" duration="11291000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -179,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668604600567</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Gyakorlati fájlok folyt..">
+      <created>1668691462014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668691462014</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
