@@ -23,6 +23,6 @@ public class CalculatorImpl implements Calculator {
 
     public static void main(String[] args) {
         CalculatorImpl calculator = new CalculatorImpl();
-        System.out.println(calculator.add(3,2));
+        System.out.println(calculator.add(3, 2));
     }
 }
