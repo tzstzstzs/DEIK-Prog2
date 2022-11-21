@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="Auto Teherauto">
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator3/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator3/CalculatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator4/CalculatorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator4/DoubleCalculatorImpl.java" afterDir="false" />
+    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="video5">
+      <change afterPath="$PROJECT_DIR$/src/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator2/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator2/CalculatorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator2/CalculatorImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +30,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/rider/IdeaProjects/DEIK-Prog2/src/calculator4",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rider/IdeaProjects/DEIK-Prog2/src/calculator4&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rider\IdeaProjects\DEIK-Prog2\src\calculator4" />
@@ -59,7 +52,7 @@
       <recent name="calculator4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestFile">
+  <component name="RunManager">
     <configuration name="CalculatorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculator3.CalculatorImpl" />
       <module name="DEIK-Prog2" />
@@ -136,7 +129,8 @@
       <workItem from="1664813375457" duration="519000" />
       <workItem from="1664956893377" duration="1665000" />
       <workItem from="1664967741416" duration="838000" />
-      <workItem from="1668853318126" duration="9473000" />
+      <workItem from="1668853318126" duration="9511000" />
+      <workItem from="1668924617527" duration="3472000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -152,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668719440749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="video5">
+      <created>1668892767081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668892767081</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +173,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Elso ora" />
     <MESSAGE value="Auto Teherauto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Auto Teherauto" />
+    <MESSAGE value="video5" />
+    <option name="LAST_COMMIT_MESSAGE" value="video5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
