@@ -1,7 +1,7 @@
 import java.util.Set;
 import java.util.TreeSet;
 
-class Person implements Comparable<Person>{
+class Person implements Comparable<Person> {
     String name;
     int age;
 
@@ -32,7 +32,7 @@ public class TestSet {
         people.add(new Person("Aladár", 10));
         people.add(new Person("Cecília", 10));
 
-        for(Person person : people){
+        for (Person person : people) {
             System.out.println(person);
         }
     }

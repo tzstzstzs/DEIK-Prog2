@@ -1,5 +1,8 @@
 package eloleny;
 
+import java.util.Objects;
+import java.util.Scanner;
+
 public class Allat implements Comparable<Allat> {
     protected String faj;
     protected double kor;
@@ -44,6 +47,38 @@ public class Allat implements Comparable<Allat> {
     public int compareTo(Allat o) {
         return Double.compare(this.suly, o.suly);
     }
+
+    public static void main(String[] args) {
+        Allat elefant = new Allat("Elefánt", 3.5, 870);
+        System.out.println(elefant);
+
+        Scanner sc = new Scanner(System.in);
+        int n = Integer.parseInt(sc.nextLine());
+        Allat[] allatok = new Allat[n];
+        for (int i = 0; i < n; i++){
+            String[] tokens = sc.nextLine().split(" ");
+            if ("true".equals(tokens[3]) || "false".equals(tokens[3])) {
+                allatok[i] = new Madar(
+                        tokens[0],
+                        Double.parseDouble(tokens[1]),
+                        Double.parseDouble(tokens[2]),
+                        Boolean.parseBoolean((tokens[3]))
+                );
+            } else {
+                allatok[i] = new Emlos(
+                        tokens[0],
+                        Double.parseDouble(tokens[1]),
+                        Double.parseDouble(tokens[2]),
+                        Integer.parseInt(tokens[3])
+
+                );
+            }
+        }
+
+        public static String legfiatalabbLathatoNyom(Allat[]) {
+            for ()
+        }
+    }
 }
 
 class Madar extends Allat {
@@ -69,5 +104,12 @@ class Emlos extends Allat {
     public Emlos(String faj, double kor, double suly, int labakSzama) {
         super(faj, kor, suly);
         this.labakSzama = labakSzama;
+    }
+
+    public Boolean lathatoLabnyom (double suly, int labakSzama) {
+        if (suly / labakSzama <= 10) {
+            return false;
+        }
+        return true;
     }
 }

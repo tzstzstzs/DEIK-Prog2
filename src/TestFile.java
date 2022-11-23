@@ -20,6 +20,6 @@ public class TestFile {
             System.out.println("Túl nagy index");
         } finally {
             System.out.println("A kód lefutott!");
-        }
+            }
     }
 }
