@@ -1,5 +1,6 @@
 package eloleny;
 
+import java.util.Arrays;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -75,9 +76,6 @@ public class Allat implements Comparable<Allat> {
             }
         }
 
-        public static String legfiatalabbLathatoNyom(Allat[]) {
-            for ()
-        }
     }
 }
 
@@ -106,10 +104,13 @@ class Emlos extends Allat {
         this.labakSzama = labakSzama;
     }
 
-    public Boolean lathatoLabnyom (double suly, int labakSzama) {
-        if (suly / labakSzama <= 10) {
+    private Boolean lathatoLabnyom (double suly, int labakSzama) {
+        int sulyPerLab = 10;
+        if (suly / labakSzama <= sulyPerLab) {
             return false;
         }
         return true;
+
+
     }
 }

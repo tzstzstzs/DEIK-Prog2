@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="video6">
+    <list default="true" id="cf453102-55ca-47a0-96d1-ff3ebd256bd3" name="Changes" comment="gyakorlás folyt.">
+      <change afterPath="$PROJECT_DIR$/src/drink/AlcoholicDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drink/Drink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drink/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labbeli/Cipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labbeli/CipoTetel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labbeli/TestCipo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/eloleny/Allat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eloleny/Allat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rider/IdeaProjects/DEIK-Prog2/src/calculator4&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/rider/IdeaProjects/DEIK-Prog2/src/drink",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rider\IdeaProjects\DEIK-Prog2\src\drink" />
       <recent name="C:\Users\rider\IdeaProjects\DEIK-Prog2\src\calculator4" />
       <recent name="C:\Users\rider\IdeaProjects\DEIK-Prog2\src\calculator3" />
     </key>
@@ -53,7 +58,7 @@
       <recent name="calculator4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.calculator4.CalculatorImpl">
+  <component name="RunManager">
     <configuration name="CalculatorImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculator3.CalculatorImpl" />
       <module name="DEIK-Prog2" />
@@ -109,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestFile" />
         <item itemvalue="Application.calculator4.CalculatorImpl" />
+        <item itemvalue="Application.TestFile" />
         <item itemvalue="Application.CalculatorImpl" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.HelloWorld" />
@@ -134,7 +139,8 @@
       <workItem from="1668924617527" duration="3503000" />
       <workItem from="1669092923675" duration="1137000" />
       <workItem from="1669106207957" duration="3616000" />
-      <workItem from="1669235993442" duration="2812000" />
+      <workItem from="1669235993442" duration="2859000" />
+      <workItem from="1669305507107" duration="10526000" />
     </task>
     <task id="LOCAL-00001" summary="Elso ora">
       <created>1664700321274</created>
@@ -164,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669005261675</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="gyakorlás folyt.">
+      <created>1669238862148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669238862148</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +199,8 @@
     <MESSAGE value="Auto Teherauto" />
     <MESSAGE value="video5" />
     <MESSAGE value="video6" />
-    <option name="LAST_COMMIT_MESSAGE" value="video6" />
+    <MESSAGE value="gyakorlás folyt." />
+    <option name="LAST_COMMIT_MESSAGE" value="gyakorlás folyt." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
